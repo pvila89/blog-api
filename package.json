@@ -1,0 +1,11 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "This is an API for a blog application. It is currently under construction and serves as the backend for the blog. You can find the code for this API in my GitHub profile.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
